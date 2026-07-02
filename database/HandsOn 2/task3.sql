@@ -1,6 +1,5 @@
 -- ===========================
 -- Hands-On 2 : Task 3
--- Multi-Table Joins
 -- ===========================
 
 -- 25. Student full name with department name
