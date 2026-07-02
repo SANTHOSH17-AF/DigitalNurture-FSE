@@ -1,6 +1,5 @@
 -- ===========================
 -- Hands-On 2 : Task 2
--- Single-Table Queries and Filtering
 -- ===========================
 
 -- 20. Retrieve all students enrolled in 2022, ordered by last_name
