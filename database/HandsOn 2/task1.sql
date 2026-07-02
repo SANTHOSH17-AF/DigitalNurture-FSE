@@ -1,6 +1,5 @@
 -- ===========================
 -- Hands-On 2 : Task 1
--- Insert, Update and Delete Data
 -- ===========================
 
 -- 15. Insert Sample Data

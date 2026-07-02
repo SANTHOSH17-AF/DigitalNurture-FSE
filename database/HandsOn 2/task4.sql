@@ -1,6 +1,5 @@
 -- ===========================
 -- Hands-On 2 : Task 4
--- Aggregations and Grouping
 -- ===========================
 
 -- 30. Total enrollments per course
